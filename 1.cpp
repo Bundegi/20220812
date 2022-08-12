@@ -5,7 +5,7 @@
 #define endl "\n"
 #define fast ios::sync_with_stdio(0), cin.tie(nullptr), cout.tie(nullptr)
 using namespace std;
-
+//1041 주사위문제
 int main() {
 	long long N;
 	cin >> N;
